@@ -1,0 +1,23 @@
+# Environment & Secrets
+.env
+*.env
+env.local
+
+# Python caches & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+
+# Local Storage & Uploaded Files
+storage/uploads/*
+!storage/uploads/.gitkeep
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
