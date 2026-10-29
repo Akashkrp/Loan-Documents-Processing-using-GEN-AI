@@ -306,12 +306,3 @@ This automatically launches:
 ## 📄 License
 
 This project is open-source and available under the **MIT License**.
-
----
-
-## 🙏 Credits
-
-Built on the open-source LoanIQ project by Shubham Nalawade
-([shubhnalawade/Loan-Documents-Processing-using-GEN-AI](https://github.com/shubhnalawade/Loan-Documents-Processing-using-GEN-AI)),
-which extends Shailesh Bothe's Cognizant Hackathon project
-([ShaileshBothe/Loan-Documents-Processing-using-GEN-AI](https://github.com/ShaileshBothe/Loan-Documents-Processing-using-GEN-AI)).
